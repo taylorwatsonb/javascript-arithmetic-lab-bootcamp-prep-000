@@ -1,1 +1,1 @@
-var sum = 
+var sum = (a)(b)
