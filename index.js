@@ -1,3 +1,3 @@
-var sum = (a)(b) {
-  return2
+var sum = (1)(2) {
+  return(3)
 }
