@@ -1,1 +1,3 @@
-var sum = (a)(b)
+var sum = (a)(b) {
+  return2
+}
